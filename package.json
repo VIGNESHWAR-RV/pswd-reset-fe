@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://password-reset-nodejs.herokuapp.com/"
+  "proxy": "https://password-reset-nodejs.herokuapp.com/api/"
 }
