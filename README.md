@@ -1,3 +1,22 @@
+Hey There,
+
+# Sample Login credentials for the password reset flow task is as:<br/>
+Username: mslazyprogrammer13@gmail.com<br/>
+Password: Laazyprog@13
+
+# The backend deployed urls is as below: <br/>
+Github repo: https://github.com/SaviSanjay1310/pswd-reset-be <br/>
+Deployed URL: https://password-reset-nodejs.herokuapp.com/
+
+# Sample demo for verify email:
+![signup](https://user-images.githubusercontent.com/92391756/162415791-6ef6ddaf-04d1-4f6b-baaa-bfaac161af58.PNG)
+![verify email](https://user-images.githubusercontent.com/92391756/162415843-435b9df7-6e4f-4d16-b792-714ce4ec5d06.PNG)
+![verify email(2)](https://user-images.githubusercontent.com/92391756/162415895-b2aba84a-527d-403f-ab01-7735d9cb9bd9.PNG)
+![verify email(3)](https://user-images.githubusercontent.com/92391756/162415921-983055a2-4f4f-4818-a52f-8680e64ffb4c.PNG)
+
+# Sample demo for password reset/forgot password email:<br/>
+https://password-reset-nodejs.herokuapp.com/api/password-reset/6250053420d15e988f272ebf/7ff54ca3cc571581745442e649bde60ef3e0e2495b0d135d8e45b4c1838d8883/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
