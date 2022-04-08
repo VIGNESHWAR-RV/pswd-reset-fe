@@ -15,7 +15,10 @@ Deployed URL: https://password-reset-nodejs.herokuapp.com/
 ![verify email(3)](https://user-images.githubusercontent.com/92391756/162415921-983055a2-4f4f-4818-a52f-8680e64ffb4c.PNG)
 
 # Sample demo for password reset/forgot password email:<br/>
-https://password-reset-nodejs.herokuapp.com/api/password-reset/6250053420d15e988f272ebf/7ff54ca3cc571581745442e649bde60ef3e0e2495b0d135d8e45b4c1838d8883/
+![Forgot password](https://user-images.githubusercontent.com/92391756/162417218-692027bc-dbaa-4218-a762-e61bfcf9cc14.PNG)
+![Forgot password(1)](https://user-images.githubusercontent.com/92391756/162417243-5f3590d9-7760-4d34-938b-eaa5a3fe18af.PNG)
+![Forgot password(2)](https://user-images.githubusercontent.com/92391756/162417256-fecc6b52-0529-4505-ab10-88bcc9bdf04e.PNG)
+![Forgot password(3)](https://user-images.githubusercontent.com/92391756/162417270-fa3613d5-4ba5-4062-bbda-2b6b21d3f663.PNG)
 
 # Getting Started with Create React App
 
