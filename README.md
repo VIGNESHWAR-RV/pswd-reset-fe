@@ -20,6 +20,11 @@ Deployed URL: https://password-reset-nodejs.herokuapp.com/
 ![Forgot password(2)](https://user-images.githubusercontent.com/92391756/162417256-fecc6b52-0529-4505-ab10-88bcc9bdf04e.PNG)
 ![Forgot password(3)](https://user-images.githubusercontent.com/92391756/162417270-fa3613d5-4ba5-4062-bbda-2b6b21d3f663.PNG)
 
+# Validations:
+![validation](https://user-images.githubusercontent.com/92391756/162420410-6de83801-ca16-4af6-bde4-e204e564d506.PNG)
+![validation 2](https://user-images.githubusercontent.com/92391756/162420436-7864f4f5-bb9c-4bb7-92ba-0e40c6bec409.PNG)
+![validation 3](https://user-images.githubusercontent.com/92391756/162420459-eaef7f44-7299-46b5-9f8d-19a538e9f439.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
